@@ -8,9 +8,9 @@ Sofern notwendig wird Git auf der lokalen Maschine installiert und eingerichtet.
 Das leere Repository wird mit `git clone` lokal bereitgestellt. Damit ersparen wir uns das Erstellen eines lokalen Repos und das Verbinden mit dem Remote. Die Bisher erstellen Dateien werden in den lokalen Ordner kopiert.
 Es erfolgt ein Init-Commit, um die Dateien in das Remote-Repository zu laden
 ```
-git clone <Repo>
+git clone <repo>
 git add -A
 git commit -m „init“
 git push
 ```
-Jedes Mitglied kann nun die Dateien per git clone abrufen und am Projekt von seinem System aus arbeiten.
+Jedes Mitglied kann nun die Dateien per `git clone` abrufen und am Projekt von seinem System aus arbeiten.
