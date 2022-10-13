@@ -1,4 +1,4 @@
-#Phase 2: Einrichtung der gemeinsamen Dokumentenablage
+# Phase 2: Einrichtung der gemeinsamen Dokumentenablage
 Für die Zusammenarbeit wird die Plattform GitHub genutzt. Jedes Teammitglied erstellt sich ein Nutzerprofil, um über die Plattform arbeiten zu können. 
 
 Es wird ein privates Repository auf der GitHub – Plattform erstellt. Jedes Teammitglied wird zur Mitarbeit eingeladen („*Contributor*“). Damit erhält jeder Lese- & Schreibzugriff.
