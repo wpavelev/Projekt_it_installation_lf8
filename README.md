@@ -54,4 +54,23 @@ ein neues Projekt anlegen.
 
 
 
-Da
+Danach mussten wir nur noch die Kofigurationsdatei (mkdocs.yml) auf unsere Bedürfnisse anpassen.
+In die Datei haben wir folgendes eingetragen: 
+```
+site_name: Projekt IT-Installation Lernfeld 8
+nav:
+ - index.md
+```
+
+Mit ``` mkdocs serve ``` konnten wir den MkDoc-Server (welcher automatisch mitgeliefert wurde) starten 
+und uns unsere Dokumentation betrachten.
+
+![alt text](https://github.com/wpavelev/Projekt_it_installation_lf8/blob/main/mkdocs_server.png?raw=true, "Sequenzdiagramm")
+![alt text](https://github.com/wpavelev/Projekt_it_installation_lf8/blob/main/mkdocs_server_interface.png?raw=true, "Sequenzdiagramm")
+
+Wir haben uns aus bequemlichkeit und aus Gründen, der Einfachheit entschieden nur die Markdown-Dateien auf GitHub hochgeladen.
+
+
+*Aufgrund von Krankheit mehrer Gruppemitglieder, waren wir zeitlich sehr beschränkt! \
+Im Durchschnitt waren nur 2 von 4 Mitglieder anwesend.*
+
