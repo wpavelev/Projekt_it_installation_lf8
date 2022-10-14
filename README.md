@@ -77,25 +77,26 @@ Wir haben uns aus bequemlichkeit und aus Gründen, der Einfachheit entschieden n
 &emsp; o	IT-Komponenten \
 &emsp; o	IT-Komponenten vorhanden? \
 •	Wie werden Daten in den Datenquellen dargestellt? \
-&emsp; o	Grundriss			               .dxf, .dwg, .pdf, .ifc, Papier \
-&emsp; o	IT-Komponenten		           Excel, Datenbank \
-&emsp; o	IT-Komponenten vorhanden? 	Datenbank \
+&emsp; o	Grundriss &emsp;			               .dxf, .dwg, .pdf, .ifc, Papier \
+&emsp; o	IT-Komponenten &emsp;		           Excel, Datenbank \
+&emsp; o	IT-Komponenten vorhanden? &emsp; 	Datenbank \
 •	Wie können diese importiert und sinnvoll weiterverarbeitet werden? \
-&emsp; o	Grundriss			               AutoCAD, M4Personal, Scanner \
-&emsp; o	IT-Komponenten		           Excel, MSSQL \
-&emsp; o	IT-Komponenten vorhanden?	 MSSQL \
+&emsp; o	Grundriss &emsp;			               AutoCAD, M4Personal, Scanner \
+&emsp; o	IT-Komponenten &emsp;		           Excel, MSSQL \
+&emsp; o	IT-Komponenten vorhanden? &emsp;	 MSSQL \
 •	Welche Metainformationen sind zur Datenquelle vorhanden? \
-&emsp; o	Grundriss			               Erstellungsdatum, Autor, Dateiname \
-&emsp; o	IT-Komponenten		           Erstellungsdatum, Autor, Dateiname \
-&emsp; o	IT-Komponenten vorhanden?	 Erstellungsdatum, Autor, Dateiname \
+&emsp; o	Grundriss &emsp;			               Erstellungsdatum, Autor, Dateiname \
+&emsp; o	IT-Komponenten &emsp;		           Erstellungsdatum, Autor, Dateiname \
+&emsp; o	IT-Komponenten vorhanden? &emsp;	 Erstellungsdatum, Autor, Dateiname \
 •	Wer darf die Dateien nutzen? \
-&emsp; o	Grundriss			               Bearbeiter (Lesen, Schreiben), Kunde (Lesen) \
-&emsp; o	IT-Komponenten 		          Bearbeiter (Lesen, Schreiben, Ändern),	Verkaufsabteilung (Lesen, Schreiben) \
-&emsp; o	IT-Komponenten vorhanden? 	Bearbeiter (Lesen, Schreiben, Ändern), Verkaufsabteilung (Lesen) \
+&emsp; o	Grundriss &emsp;			               Bearbeiter (Lesen, Schreiben), Kunde (Lesen) \
+&emsp; o	IT-Komponenten &emsp; 		          Bearbeiter (Lesen, Schreiben, Ändern),	Verkaufsabteilung (Lesen, Schreiben) \
+&emsp; o	IT-Komponenten vorhanden? &emsp; 	Bearbeiter (Lesen, Schreiben, Ändern), Verkaufsabteilung (Lesen) \
 •	Datenformat für unseren Fall \
-&emsp; o	Grundriss 			              .dxf, .ifc, .dwg \
-&emsp; o	IT-Komponenten 		          Datenbank \
-&emsp; o	IT-Komponenten vorhanden? 	Datenbank \
+&emsp; o	Grundriss &emsp; 			              .dxf, .ifc, .dwg \
+&emsp; o	IT-Komponenten &emsp;	          Datenbank \
+&emsp; o	IT-Komponenten vorhanden? &emsp; 	Datenbank
+
 
 *Aufgrund von Krankheit mehrer Gruppemitglieder, waren wir zeitlich sehr beschränkt! \
 Im Durchschnitt waren nur 2 von 4 Mitglieder anwesend.*
