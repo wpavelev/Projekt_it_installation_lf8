@@ -97,7 +97,6 @@ Wir haben uns aus bequemlichkeit und aus Gründen, der Einfachheit entschieden n
 &emsp; o	IT-Komponenten 		          Datenbank \
 &emsp; o	IT-Komponenten vorhanden? 	Datenbank \
 
-
 *Aufgrund von Krankheit mehrer Gruppemitglieder, waren wir zeitlich sehr beschränkt! \
 Im Durchschnitt waren nur 2 von 4 Mitglieder anwesend.*
 
