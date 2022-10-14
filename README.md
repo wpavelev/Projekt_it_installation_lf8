@@ -1,4 +1,4 @@
-## Projekt IT Installation 
+## Projekt Angebot - IT-Installation 
 ## Lernfeld 8
 
 
@@ -70,6 +70,8 @@ und uns unsere Dokumentation betrachten.
 
 Wir haben uns aus bequemlichkeit und aus Gründen, der Einfachheit entschieden nur die Markdown-Dateien auf GitHub hochgeladen.
 
+
+# Phase 5: 
 
 *Aufgrund von Krankheit mehrer Gruppemitglieder, waren wir zeitlich sehr beschränkt! \
 Im Durchschnitt waren nur 2 von 4 Mitglieder anwesend.*
