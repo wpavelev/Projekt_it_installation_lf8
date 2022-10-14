@@ -85,7 +85,7 @@ Wir haben uns aus bequemlichkeit und aus Gründen, der Einfachheit entschieden n
 &emsp; o	IT-Komponenten		           Excel, MSSQL \
 &emsp; o	IT-Komponenten vorhanden?	 MSSQL \
 •	Welche Metainformationen sind zur Datenquelle vorhanden? \
-&emsp; o	Grundriss			               Erstellungsdatum, Autor, Dateiname \ 
+&emsp; o	Grundriss			               Erstellungsdatum, Autor, Dateiname \
 &emsp; o	IT-Komponenten		           Erstellungsdatum, Autor, Dateiname \
 &emsp; o	IT-Komponenten vorhanden?	 Erstellungsdatum, Autor, Dateiname \
 •	Wer darf die Dateien nutzen? \
