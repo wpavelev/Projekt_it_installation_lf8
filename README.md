@@ -3,7 +3,7 @@
 
 
 # Phase 1: Anwendungsfalldiagramm
-![alt text](C:\Users\i21niebischju\Desktop\Projekt_IT_Installation "Title")
+![alt text](Uml use-case.drawio.png "Title")
 
 
 # Phase 2: Einrichtung der gemeinsamen Dokumentenablage
@@ -25,7 +25,7 @@ Jedes Mitglied kann nun die Dateien per `git clone` abrufen und am Projekt von s
 
 
 # Phase 3: Sequenzdiagramm
-
+![alt text](Sequenzdiagramm.drawio.png "Title")
 
 # Phase 4: MKDocs 
 Um einen eigenen kleinen MKDocs Server zu erstellen, haben wir eine Virtuelle Maschine mit CentOS 9 aufgesetzt.
