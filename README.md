@@ -3,8 +3,7 @@
 
 
 # Phase 1: Anwendungsfalldiagramm
-![alt text](Uml use-case.drawio.png "Title")
-![alt text](https://github.com/wpavelev/Projekt_it_installation_lf8/blob/main/Uml use-case.drawio.png?raw=true)
+![alt text](https://github.com/wpavelev/Projekt_it_installation_lf8/blob/main/Sequenzdiagramm.drawio.png?raw=true)
 
 
 # Phase 2: Einrichtung der gemeinsamen Dokumentenablage
