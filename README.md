@@ -1,6 +1,7 @@
 ## Projekt Angebot - IT-Installation 
 ## Lernfeld 8
 
+# Jonas Reinecke, Chris Leonhardt, Waldemar Pavelev, Jupp Niebisch
 
 # Phase 1: Anwendungsfalldiagramm
 ![alt text](https://github.com/wpavelev/Projekt_it_installation_lf8/blob/main/Uml-use-case.jpg?raw=true, "Anwendungsfalldiagramm")
