@@ -3,7 +3,7 @@
 
 
 # Phase 1: Anwendungsfalldiagramm
-![alt text](https://github.com/wpavelev/Projekt_it_installation_lf8/blob/main/Sequenzdiagramm.drawio.png?raw=true)
+![alt text](https://github.com/wpavelev/Projekt_it_installation_lf8/blob/main/Uml-use-case.jpg?raw=true, "Anwendungsfalldiagramm")
 
 
 # Phase 2: Einrichtung der gemeinsamen Dokumentenablage
@@ -25,7 +25,7 @@ Jedes Mitglied kann nun die Dateien per `git clone` abrufen und am Projekt von s
 
 
 # Phase 3: Sequenzdiagramm
-![alt text](Sequenzdiagramm.drawio.png "Title")
+![alt text](https://github.com/wpavelev/Projekt_it_installation_lf8/blob/main/Sequenzdiagramm.jpg?raw=true, "Sequenzdiagramm")
 
 # Phase 4: MKDocs 
 Um einen eigenen kleinen MKDocs Server zu erstellen, haben wir eine Virtuelle Maschine mit CentOS 9 aufgesetzt.
