@@ -73,7 +73,7 @@ Wir haben uns aus bequemlichkeit und aus Gründen, der Einfachheit entschieden n
 
 # Phase 5: 
 •	Welche Daten werden dargestellt? \
-&&emsp;; o	Grundriss \
+&emsp; o	Grundriss \
 &emsp; o	IT-Komponenten \
 &emsp; o	IT-Komponenten vorhanden? \
 •	Wie werden Daten in den Datenquellen dargestellt? \
