@@ -65,9 +65,8 @@ nav:
 Mit ``` mkdocs serve ``` konnten wir den MkDoc-Server (welcher automatisch mitgeliefert wurde) starten 
 und uns unsere Dokumentation betrachten.
 
-A | B
-- | - 
-![alt text](https://github.com/wpavelev/Projekt_it_installation_lf8/blob/main/mkdocs_server.PNG?raw=true, "Sequenzdiagramm") | ![alt text](https://github.com/wpavelev/Projekt_it_installation_lf8/blob/main/mkdocs_server_interface.PNG?raw=true, "Sequenzdiagramm")
+![alt text](https://github.com/wpavelev/Projekt_it_installation_lf8/blob/main/mkdocs_server.PNG?raw=true, "MKDocServer")
+![alt text](https://github.com/wpavelev/Projekt_it_installation_lf8/blob/main/mkdocs_server_interface.PNG?raw=true, "MKDocs gerendert")
 
 Wir haben uns aus bequemlichkeit und aus Gründen, der Einfachheit entschieden nur die Markdown-Dateien auf GitHub hochgeladen.
 
